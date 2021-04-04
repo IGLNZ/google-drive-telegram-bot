@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/yt_DarkHackerX_chat"
+    BOT_TOKEN = "1767714872:AAG_2T2ncNohx3bDDMJTgyu_Z92giodqaOE"
+    APP_ID = "2832018"
+    API_HASH = "9d84d66192ce45172549dd3f7d139ede"
+    DATABASE_URL = "postgres://fmdwwxilewmqos:bd2fa3a9413e74079e715818a095e6958b1bdd3d4722f1fb3ca54fb03597a876@ec2-54-235-108-217.compute-1.amazonaws.com:5432/d9ij2rneujk7c3"
+    SUDO_USERS = "550681167 1343997832" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/FLS8k7-k70k2MWU0"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
